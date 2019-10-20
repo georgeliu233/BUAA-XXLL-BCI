@@ -3,11 +3,11 @@
 ## 大家好，我们是BUAA信息理论课的BCI Team，这个EEG的demo十分适合初次涉及BCI的筒子们~比如说我们233
 
 ## 关于文件：
-1.lstm中有几次测试的.m文件，其中首先运行datalstm下载dts中数据集和测试集 **文件路径需要自行更改**使之生成mat文件对应训练和测试用元胞数组
-2.用datatest进行运算**我们使用的CPU模式，配置dalao可切换GPU运行**
+1.lstm中有几次测试的.m文件，其中首先运行datalstm下载dataset中数据集和测试集 **文件路径需要自行更改**使之生成mat文件对应训练和测试用元胞数组
+2.用datatest进行运算**我们使用的CPU模式，电脑配置比较dalao可切换GPU运行**
 3.dts中有训练集和测试集，均为.csv文件，需要自行处理~
 
-## 数据集来源：（发布时请继续引用）
+## 数据集来源：（如需要公开时请继续引用下列论文）
 [A Study on Mental State Classification using EEG-based Brain-Machine Interface](https://ieeexplore.ieee.org/abstract/document/8710576) - this work first proposes the technique and features. We used them to classify mental state. 
 
 @inproceedings{bird2018study,  
