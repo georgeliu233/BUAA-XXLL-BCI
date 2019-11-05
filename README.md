@@ -4,10 +4,16 @@
 
 ## 关于文件：
 1.lstm中有几次测试的.m文件，其中首先运行datalstm下载dataset中数据集和测试集 **文件路径需要自行更改**使之生成mat文件对应训练和测试用元胞数组
+
 2.用datatest进行运算**我们使用的CPU模式，电脑配置好GPU的可切换默认GPU运行**
+
 3.dataset中有训练集original_data和测试集test，均为.csv文件，若使用需要自行处理，同时不要忘记备注来源论文的名称~
+
 4.lstm2文件夹是双层的结构**建议16G内存及以上否则内存会有点吃不消**
+
 5.具体lstm的结构与讲解可以参考dalao的blog：http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+
+6.example文件中提供了信号处理的代码文件以及样例
 
 ## 数据集来源：（如需要公开时请继续引用下列论文）
 [A Study on Mental State Classification using EEG-based Brain-Machine Interface](https://ieeexplore.ieee.org/abstract/document/8710576) - this work first proposes the technique and features. We used them to classify mental state. 
