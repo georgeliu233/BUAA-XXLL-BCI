@@ -15,6 +15,10 @@
 
 6.example文件中提供了信号处理的代码文件以及样例
 
+7.配置需要：Matlab 2018a以上，i7+GPU（只要比intel显卡好就行了）
+
+8.**欢迎大家看到了给加小星星★~LHC**
+
 ## 数据集来源：（如需要公开时请继续引用下列论文）
 [A Study on Mental State Classification using EEG-based Brain-Machine Interface](https://ieeexplore.ieee.org/abstract/document/8710576) - this work first proposes the technique and features. We used them to classify mental state. 
 
